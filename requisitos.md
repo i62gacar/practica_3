@@ -24,7 +24,7 @@ Aquí vamos a detallar los datos que se van a guardar de cada alumno:
 
 ### Requisitos funcionales:
 
--RF1. El sistema deberá poder buscar un alumno dentro de su base de datos. (Prioridad: 1)
+&nbsp -RF1. El sistema deberá poder buscar un alumno dentro de su base de datos. (Prioridad: 1)
 -RF2. El sistema deberá tener la opción de poder introducir a un nuevo alumno en el sistema. (Prioridad: 2)
 -RF3. El sistema deberá tener la opción de poder modificar a un alumno ya existente en el sistema. (Prioridad: 3)
 -RF4. El sistema deberá tener la opción de poder eliminar a un alumno del sistema. (Prioridad: 3)
