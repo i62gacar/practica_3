@@ -2,7 +2,7 @@
 
 ID: 05
 
-**Breve Descripción**: El sistema deberá cargar un fichero binario que el usuario quiera.
+**Breve Descripción**: El sistema deberá cargar un fichero binario que el profesor quiera.
 
 **Actores Principales**: Profesor
 

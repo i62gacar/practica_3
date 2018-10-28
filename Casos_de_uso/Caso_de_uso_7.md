@@ -2,7 +2,7 @@
 
 ID: 07
 
-**Breve Descripción**: El sistema deberá dejar al usuario visualizar el grupo que el desee.
+**Breve Descripción**: El sistema deberá visualizar el grupo que el profesor desee.
 
 **Actores Principales**: Profesor
 
