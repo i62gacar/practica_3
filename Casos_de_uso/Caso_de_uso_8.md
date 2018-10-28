@@ -1,4 +1,4 @@
-#Nombre: Imprimir por Pantalla
+# Nombre: Imprimir por Pantalla
 
 ID: 08
 

@@ -1,4 +1,4 @@
-#Nombre: Visualizar grupo
+# Nombre: Visualizar grupo
 
 ID: 07
 
