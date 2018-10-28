@@ -6,7 +6,7 @@ ID: 08
 
 **Actores Principales**: Profesor
 
-**Actores Secundarios**: 
+**Actores Secundarios**: Alumno
 
 **Precondiciones**:
 

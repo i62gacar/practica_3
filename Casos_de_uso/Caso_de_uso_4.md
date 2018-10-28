@@ -6,7 +6,7 @@ ID: 04
 
 **Actores Principales**: Profesor
 
-**Actores Secundarios**: 
+**Actores Secundarios**: Alumno
 
 **Precondiciones**:
 
