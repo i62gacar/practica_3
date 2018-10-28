@@ -14,7 +14,7 @@ ID: 06
 
 **Flujo Principal**:
 
-   1. El caso de uso empieza cuando el profesor selecciona la opcion de "Descargar fichero".
+   1. El caso de uso empieza cuando el profesor selecciona la opción de "Descargar fichero".
 
    2. El sistema le preguntará al usuario el fichero binario donde están los datos que desea descargar.
 

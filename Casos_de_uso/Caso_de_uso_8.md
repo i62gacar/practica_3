@@ -2,7 +2,7 @@
 
 ID: 08
 
-**Breve Descripción**: El sistema deberá imprimir los datos que el usuario quiera y generar un fichero MarkDown con ellos.
+**Breve Descripción**: El sistema deberá imprimir todos los datos de los alumnos y generar un fichero MarkDown con ellos.
 
 **Actores Principales**: Profesor
 
@@ -10,25 +10,20 @@ ID: 08
 
 **Precondiciones**:
 
-   * Los datos deberán estar dentro del sistema.
+   * 
 
 **Flujo Principal**:
 
-   1. El caso de uso empieza cuando el usuario le pida al sistema de imprimir algunos datos por pantalla.
+   1. El caso de uso empieza cuando el profesor selecciona la opción de "Imprimir por pantalla".
 
-   2. El sistema le preguntará al usuario cuales son los datos que desea imprimir por pantalla.
+   2. El sistema imprimira por pantalla todos los datos de los alumnos.
 
-   3. El usuario le indicará cuales son los datos.
-
-   4. Una vez impresos, este le preguntará al usuario si quiere un fichero MarkDown con ellos.
-
-   5. El usuario aceptará la proposición
+   3. El sistema creara un fichero Markdown donde estaran todos los datos del sistema.
 
 **Postcondiciones**:
 
-   * El sistema generará un fichero MarkDown con los datos deseados al usuario.
+   * 
 
 **Flujos alternativos**:
 
-   * El usuario podrá cancelar el proceso cuando lo desee.
-   * El usuario deseará imprimir solamente los datos y rechazar el querer un fichero MarkDown con ellos.
+   * 

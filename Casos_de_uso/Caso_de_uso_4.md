@@ -14,7 +14,7 @@ ID: 04
 
 **Flujo Principal**:
 
-   1. El caso de empieza cuando el profesor selecciona la opcion de "Eliminar alumno".
+   1. El caso de empieza cuando el profesor selecciona la opción de "Eliminar alumno".
 
    2. El sistema pedira al profesor el DNI o el apellido del alumno que desea eliminar
 

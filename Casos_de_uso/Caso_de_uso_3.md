@@ -14,7 +14,7 @@ ID: 03
 
 **Flujo Principal**:
 
-   1. El caso de empieza cuando el profesor selecciona la opcion de "Modificar Alumno"
+   1. El caso de empieza cuando el profesor selecciona la opción de "Modificar Alumno"
 
    2. El sistema le pedira al profesor el DNI o el apellido del alumno que desa modificar
 

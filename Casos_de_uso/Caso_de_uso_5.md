@@ -14,7 +14,7 @@ ID: 05
 
 **Flujo Principal**:
 
-   1. El caso de uso empieza cuando el profesor selecciona la opcion de "Cargar fichero".
+   1. El caso de uso empieza cuando el profesor selecciona la opción de "Cargar fichero".
 
    2. El sistema le preguntará al usuario el fichero binario que desea cargar.
 

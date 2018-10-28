@@ -14,7 +14,7 @@ ID: 02
 
 **Flujo Principal**:
 
-   1. El caso de uso empieza cuando el usuario le pida al sistema la opcion de "introducir nuevo alumno".
+   1. El caso de uso empieza cuando el usuario le pida al sistema la opción de "introducir nuevo alumno".
 
    2. El sistema pide al profesor que introduzca el DNI, nombre, apellido, teléfono, email de la uco, dirección, curso mas alto, fecha de nacimiento, equipo y lider del alumno.
 
