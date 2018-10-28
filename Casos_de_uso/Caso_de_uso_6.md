@@ -4,8 +4,9 @@ ID: 06
 
 **Breve Descripción**: El sistema deberá descargar los datos de un fichero binario que el usuario quiera.
 
-**Actores Principales**: Usuario
-**Actores Secundarios**: Fichero Binario
+**Actores Principales**: Profesor
+
+**Actores Secundarios**: 
 
 **Precondiciones**:
 

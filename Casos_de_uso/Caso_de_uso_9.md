@@ -4,8 +4,9 @@ ID: 09
 
 **Breve Descripción**: El sistema deberá realizar una copia de seguridad de todos los usuarios registrados en el sistema en un fichero binario cuando lo desee el usuario.
 
-**Actores Principales**: Usuario
-**Actores Secundarios**: Usuarios registrados
+**Actores Principales**: Profesor
+
+**Actores Secundarios**: 
 
 **Precondiciones**:
 

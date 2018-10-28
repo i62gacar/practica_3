@@ -4,7 +4,9 @@ ID: 08
 
 **Breve Descripción**: El sistema deberá imprimir los datos que el usuario quiera y generar un fichero MarkDown con ellos.
 
-**Actores Principales**: Usuario
+**Actores Principales**: Profesor
+
+**Actores Secundarios**: 
 
 **Precondiciones**:
 

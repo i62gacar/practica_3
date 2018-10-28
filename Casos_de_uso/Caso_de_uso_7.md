@@ -4,8 +4,9 @@ ID: 07
 
 **Breve Descripción**: El sistema deberá dejar al usuario visualizar el grupo que el desee.
 
-**Actores Principales**: Usuario
-**Actores Secundarios**: Grupo
+**Actores Principales**: Profesor
+
+**Actores Secundarios**: 
 
 **Precondiciones**:
 
