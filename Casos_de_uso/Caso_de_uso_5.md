@@ -20,11 +20,11 @@ ID: 05
 
    3. El usuario le indicará cual es el fichero que desea cargar.
 
-   4. El sistema carga en memoria todos los datos del fichero.
+   4. El sistema carga en el fichero todos los datos de memoria.
 
 **Postcondiciones**:
 
-   * El sistema tendra registrados los usuarios en el sistema.
+   * El fichero contrendra todos los datos del sistema.
 
 **Flujos alternativos**:
 
