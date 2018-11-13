@@ -10,7 +10,8 @@ ID: 02
 
 **Precondiciones**:
 
-   * 
+   * fgkfmgf
+   * sdsd
 
 **Flujo Principal**:
 
