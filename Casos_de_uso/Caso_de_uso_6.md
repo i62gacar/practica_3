@@ -1,4 +1,4 @@
-# Nombre: Descargar Fichero
+# Nombre: Cargar Fichero
 
 ID: 06
 
