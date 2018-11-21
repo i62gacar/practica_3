@@ -22,7 +22,7 @@ ID: 10
 
 **Postcondiciones**:
 
-   * 
+   * El profesor quedará registrado en el sistema
 
 **Flujos alternativos**:
 
