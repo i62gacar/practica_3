@@ -10,7 +10,7 @@ ID: 07
 
 **Precondiciones**:
 
-   * 
+   * El grupo debe existir, dentro del sistema
 
 **Flujo Principal**:
 
@@ -20,11 +20,9 @@ ID: 07
 
    3. El usuario le indicará cual es el grupo que desea ver.
 
-   4. El sistema mostrar el grupo seleccionado.
-
 **Postcondiciones**:
 
-   * 
+   * El sistema mostrará el grupo seleccionado
 
 **Flujos alternativos**:
 
