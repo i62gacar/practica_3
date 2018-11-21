@@ -24,7 +24,7 @@ ID: 11
 
 **Postcondiciones**:
 
-   * 
+   * El usuario tendra acceso al sistema
 
 **Flujos alternativos**:
 
