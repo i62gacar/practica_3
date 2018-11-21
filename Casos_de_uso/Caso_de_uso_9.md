@@ -1,4 +1,4 @@
-# Nombre: Copia de Seguridad
+# Nombre: Hacer Copia de Seguridad
 
 ID: 09
 
@@ -10,17 +10,17 @@ ID: 09
 
 **Precondiciones**:
 
-   * 
+   * El sistema no puede estar vacío.
 
 **Flujo Principal**:
 
-   1. El caso de uso empieza cuando el profesor selecciona la opción de "Copia de seguridad".
+   1. El caso de uso empieza cuando el profesor selecciona la opción de "hacer copia de seguridad".
 
-   2. El sistema genera un fichero binario con todos los datos de los alumnos cuyo nombre sera la fecha de ese dia.
+   2. El sistema genera un fichero binario con todos los datos de los alumnos cuyo nombre será la fecha de ese dia.
 
 **Postcondiciones**:
 
-   * 
+   * El fichero será generado de forma correcta
 
 **Flujos alternativos**:
 
