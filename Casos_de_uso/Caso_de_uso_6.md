@@ -2,7 +2,7 @@
 
 ID: 06
 
-**Breve Descripción**: El sistema deberá descargar los datos de un fichero binario que el profesor quiera.
+**Breve Descripción**: El sistema deberá cargar los datos de un fichero binario que el profesor quiera.
 
 **Actores Principales**: Profesor
 
@@ -14,13 +14,13 @@ ID: 06
 
 **Flujo Principal**:
 
-   1. El caso de uso empieza cuando el profesor selecciona la opción de "Descargar fichero".
+   1. El caso de uso empieza cuando el profesor selecciona la opción de "Cargar fichero".
 
-   2. El sistema le preguntará al usuario el fichero binario donde están los datos que desea descargar.
+   2. El sistema le preguntará al usuario el fichero binario donde están los datos que desea cargar.
 
    3. El usuario le indicará cual es el fichero con esos datos.
 
-   4. El sistema carga en memeoria todos los datos del fichero.
+   4. El sistema carga en memoria todos los datos del fichero.
 
 **Postcondiciones**:
 
